@@ -7,6 +7,10 @@ echo 222;
 echo "branch master";
 echo "branch dev change";
 echo "123";
+<<<<<<< HEAD
 echo "billy his mother says something billy dones what frist time";
 echo "test vscode";
+=======
+echo "billy his mother says something billy dones what frist time"
+>>>>>>> 07bc45a5cdeae6548da3b7ef10f9994ee1856da9
 /*  */
