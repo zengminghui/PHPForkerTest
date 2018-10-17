@@ -12,5 +12,5 @@ echo "test vscode";
 echo "billy his mother says something billy dones what frist time";
 echo 111111111111;
 echo "qweq";
-ehcp 122;
+echo 122;
 /*12313132  */
