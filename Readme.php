@@ -10,6 +10,6 @@ echo "123";
 echo "billy his mother says something billy dones what frist time";
 echo "test vscode";
 echo "billy his mother says something billy dones what frist time";
-echo "2三十2";
+echo "2三十去去去2";
 
 /*12313132  */
